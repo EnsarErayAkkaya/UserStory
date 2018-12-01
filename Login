@@ -1,0 +1,10 @@
+
+Senaryo: Kaydı olan kullanıcının giriş formunu görmesi.
+  -Kayıtlı bir kullanıcı olarak
+  -Anasayafaya girdiğim zaman
+  -Bir Giriş formu görmeliyim.
+ 
+ Senaryo: Kaydı olan kullanıcının giriş yapması.
+  -Kayıtlı bir kullanıcı olarak
+  -Formu doldurup submit butonuna tıkladığımda
+  -Girişim yapılmış ve karşıma kullanıcı ana ekranı çıkmış olmalı.
