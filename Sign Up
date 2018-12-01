@@ -1,0 +1,28 @@
+
+Senaryo: Kaydı olmayan kullanıcının kayıt ol sayfasına gitmesi.
+  -Kayıtsız bir kullanıcı olarak
+  -Anasayfaya girdiğim zaman bir "Kayıt Ol" linki görmeliyim
+  -Ki tıkladığımda ben "Kayıt Ol" sayfasına götürsün
+  
+Senaryo: Kaydı olmayan kullanıcın kayıt formunu görmesi.
+  -Kayıtsız bir kullanıcı olarak
+  -Bu formu doldurup submit butonuna tıkladığımda
+  -e-mail adresime bir aktivasyon postası gelmeli
+  
+  
+Senaryo: Kaydı olmayan kullanıcın email adresine tıklayıp.
+  -Kayıtsız bir kullanıcı olarak
+  -Bu formu doldurup submit butonuna tıkladığımda
+  -e-mail adresime bir aktivasyon postası gelmeli
+    
+  
+Senaryo: Kaydı olmayan kullanıcın kayıt formunu görmesi.
+  -Kayıtsız bir kullanıcı olarak
+  -Bu postadaki aktivasyon adresine tıkladığımda.
+  -Aktive edilmiş bir hesabım olmalı
+   Otomatik olarak giriş yapmış olmalıyım
+   yeni kullanıcı sayfasına yönlendirilmeliyim.
+  
+  
+  
+  
